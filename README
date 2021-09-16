@@ -1,10 +1,12 @@
 Compile with NDK of Android:
-run build.sh
+Run ./build.sh
+Tested on decive. (bug unsupported flags DT_FLAGS_1=0x8000001, not fixed yet)
 
 (author: ynguyen)
 ---------------------------------------------
 Compile with source Android:
 This repo already contains Android.mk. Please follow it and compile accordingly
+Tested on device and no error. Everything is normal.
 
 (author: ynguyen)
 ---------------------------------------------

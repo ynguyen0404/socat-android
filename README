@@ -1,3 +1,13 @@
+Compile with NDK of Android:
+run build.sh
+
+(author: ynguyen)
+---------------------------------------------
+Compile with source Android:
+This repo already contains Android.mk. Please follow it and compile accordingly
+
+(author: ynguyen)
+---------------------------------------------
 
 about
 -----
